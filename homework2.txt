@@ -1,0 +1,31 @@
+identify consturcter
+set_number constructer
+name:小明
+number:440922222222222222
+identify consturcter
+student constructer
+calling the student_id-setting constructer
+set_number constructer
+calling the student_school setting constructer
+calling the student_id-showing constructer
+number:11111111111111
+name:小明
+calling the student_school showing constructer
+school:中山大学Identify consturcter
+call out the copy constructer
+calling the MakeStudent constructer
+identify consturcter
+identify consturcter
+student constructer
+identify consturcter
+call out the copy constructer
+student distructer
+identify disturcter
+identify disturcter
+student distructer
+identify disturcter
+student distructer
+identify disturcter
+student distructer
+identify disturcter
+identify disturcter
